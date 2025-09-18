@@ -18,7 +18,7 @@
   "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.lineHeight": 0,
-  "window.autoDetectColorScheme": true,
+  "window.autoDetectColorScheme": false,
   "workbench.startupEditor": "none",
   "workbench.colorTheme": "Tokyo Night",
   "workbench.iconTheme": "material-icon-theme",
@@ -75,7 +75,6 @@
   "files.autoSave": "onFocusChange",
   "window.zoomLevel": 1,
   "cSpell.enabled": true,
-  "cSpell.enableFiletypes": ["mdx"],
   "diffEditor.ignoreTrimWhitespace": false,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
@@ -150,10 +149,6 @@
       }
     }
   },
-  "[prisma]": {
-    "editor.defaultFormatter": "Prisma.prisma"
-  },
-  "prisma.showPrismaDataPlatformNotification": false,
 }
 ```
 
